@@ -1,0 +1,57 @@
+/* Basic Styles */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    padding: 20px;
+  }
+  
+  .navbar {
+    background-color: #333;
+    padding: 10px;
+  }
+  
+  .navbar-item {
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+  }
+  
+  .navbar-item:hover {
+    text-decoration: underline;
+  }
+  
+  button {
+    padding: 5px 10px;
+    margin: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  input, select {
+    padding: 8px;
+    margin: 10px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .event-card, .attendee-card, .task-card {
+    border: 1px solid #ddd;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
