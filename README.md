@@ -4,8 +4,7 @@ The Event Management Dashboard is a full-stack web application designed to manag
 Features
 Event Management: Create, update, and delete events with ease.
 Attendee Management: Add attendees, assign them to events, and manage their details.
-Task Tracker: Organize and track tasks related to events with progress indicators.
-Real-Time Updates: Keep event data up-to-date dynamically.
+Task Tracker: Organize and track tasks related to events.
 
 Tech Stack
 *Frontend*
